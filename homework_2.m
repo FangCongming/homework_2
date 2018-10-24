@@ -25,10 +25,3 @@ for s = 1 : char_num                    %ergodic again
     end
 end
 sent_num
-
-%add
-F = fopen(''poetry.txt','r');              %open the file of homework_2.m in the way of Read-only
-R = textscan(F,'%s','delimiter','\n');      %Use newline as a delimiter
-R_num = length(R{1});                       %use the "R_num" as the name of the number of row
-R_num                                       %print the number of row
-
