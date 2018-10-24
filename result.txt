@@ -1,0 +1,20 @@
+>> homework_2
+
+word_num =
+
+    96
+
+
+char_num =
+
+   481
+
+
+punct_num =
+
+    14
+
+
+sent_num =
+
+     9
